@@ -1,6 +1,9 @@
-{"devices": {
+{"registereddevices": {
   "modified": "25/08/2016",
   "devices": [
-    {"deveui": "0004A30B001B7E7C", "assignment": "dev"}
+    {"device": {"deveui": "0004A30B001B7E7C", "assignment": "dev", "gps" : "Neo-6M"}},
+    {"device": {"deveui": "test1", "assignment": "dev1", "gps" : "Neo-6M"}},
+    {"device": {"deveui": "test2", "assignment": "dev2", "gps" : "Neo-8M"}},
+    {"device": {"deveui": "test3", "assignment": "dev3", "gps" : "Neo-8M"}}
   ]
 }}
