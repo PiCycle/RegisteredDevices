@@ -3,7 +3,6 @@
   "devices": [
     {"device": {"deveui": "0004A30B001B7E7C", "build": "0.1", "assignment": "dev", "gps" : "Neo-6M"}},
     {"device": {"deveui": "test1", "build": "0.1", "assignment": "dev1", "gps" : "Neo-6M"}},
-    {"device": {"deveui": "test2", "build": "0.1", "assignment": "dev2", "gps" : "Neo-8M"}},
-    {"device": {"deveui": "test3", "build": "0.1", "assignment": "dev3", "gps" : "Neo-8M"}}
+    {"device": {"deveui": "test2", "build": "0.1", "assignment": "dev2", "gps" : "Neo-8M"}}
   ]
 }}
