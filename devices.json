@@ -2,7 +2,12 @@
   "modified": "18/10/2016",
   "devices": [
     {"device": {"deveui": "0004A30B001B7E7C", "build": "0.1.0", "assignment": "PROTO1-MK2-A", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
-    {"device": {"deveui": "0004A30B001A32D3", "build": "0.1.0", "assignment": "PROTO2-MK2-A", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
+    {"device": {"deveui": "0004A30B001A3B8E", "build": "0.1.0", "assignment": "Unassigned", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
+    {"device": {"deveui": "0004A30B001A32D3", "build": "0.1.0", "assignment": "Unassigned", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
+    {"device": {"deveui": "0004A30B001BB2AB", "build": "0.1.0", "assignment": "Unassigned", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
+    {"device": {"deveui": "0004A30B001BCA69", "build": "0.1.0", "assignment": "Unassigned", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
+    {"device": {"deveui": "0004A30B001BAE6E", "build": "0.1.0", "assignment": "Unassigned", "gps" : "Neo-6M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
+    {"device": {"deveui": "test1", "build": "0.1.0", "assignment": "dev2", "gps" : "Neo-8M", "distance" : "HCSR-04", "doppler" : "HB-100"}},
     {"device": {"deveui": "test2", "build": "0.1.0", "assignment": "dev2", "gps" : "Neo-8M", "distance" : "HCSR-04", "doppler" : "HB-100"}}
   ]
 }}
